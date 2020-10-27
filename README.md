@@ -1,2 +1,4 @@
 # bmc_ld
-fiddling with Langevin MC
+
+-fiddling with Langevin MC
+-Bayesian modelling and computation projectmd
