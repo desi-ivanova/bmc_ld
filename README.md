@@ -1,5 +1,5 @@
 # bmc_ld
 
--fiddling with Langevin MC
+- iddling with Langevin MC
 
--Bayesian modelling and computation projectmd
+- Bayesian modelling and computation project
