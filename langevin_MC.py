@@ -32,6 +32,7 @@ def Langevin_MC(
     rejected = 0 # bookeeping
     burn_in = int(n_samples*burnin_percent)
     print_id = int(n_samples*.1)
+    # TODO: metric not currently used
     riemannian_metric = riemannian_metric or torch.ones(D, D)
     
     # initial proposal: sample random normal (start)
